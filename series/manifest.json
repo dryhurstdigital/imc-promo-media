@@ -322,7 +322,18 @@
       },
       "x": "\"The check is in the mail.\" Every invoice now has its own pay page: your customer taps the link and pays by card, ACH, Apple Pay or Google Pay. It marks itself paid. Starter and above. Start free: https://www.invoicemyclients.com/features/payments?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-09-am #Contractors #SmallBusiness"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/payments"
+    "featureUrl": "https://www.invoicemyclients.com/features/payments",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-09T11:00:00Z",
+      "instagram": "929da19b-97f5-41d6-830d-db74fb841402",
+      "tiktok": "038d5826-ce04-4086-92da-46a3b2b14301",
+      "youtube": "c677e2f7-b324-4d25-99ea-a6c95ba64c40",
+      "pinterest": "6a3ed6d8-ba21-426e-a5d8-4f4135b97c80",
+      "facebook": "ab4c1088-1491-4396-b74c-2b71015b0171",
+      "linkedin": "31953cef-d80a-48df-b91c-ac548266598a",
+      "x": "4541a953-4fb3-4b6f-9947-2b13858f9b73"
+    }
   },
   "2026-11-09-pm": {
     "slot": "2026-11-09-pm",
