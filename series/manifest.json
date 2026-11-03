@@ -448,6 +448,17 @@
       },
       "x": "Payment reminders that ask you first. Email reminders on day 1, 7, 14 and 30 past due, each held until you approve it. They stop when the invoice is paid. Professional plan and above. https://www.invoicemyclients.com/features/automated-collections?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-10-pm"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/automated-collections"
+    "featureUrl": "https://www.invoicemyclients.com/features/automated-collections",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-11T01:30:00Z",
+      "instagram": "747c8b79-b25f-4642-b8d9-fb16acdd721d",
+      "tiktok": "0b50bb7b-c953-4609-999f-6e942d7a6919",
+      "youtube": "bb380df6-2bab-4b59-b429-db15d6a66c93",
+      "pinterest": "7260f028-406a-4e5e-a3ea-a19f1d0bd022",
+      "facebook": "37464727-2077-409d-9133-8351a985d534",
+      "linkedin": "a5094169-84c9-4e37-8610-6ca527e16233",
+      "x": "121dd7a3-8415-4a30-a108-bfff1d15ed87"
+    }
   }
 }
