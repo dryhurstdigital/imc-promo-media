@@ -742,7 +742,18 @@
       },
       "x": "Se habla español. Switch Invoice My Clients to Español (México): invoices, clients and the assistant, which answers in Spanish and waits for your Confirmar. Every plan. Start free: https://www.invoicemyclients.com/es?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-16-am"
     },
-    "featureUrl": "https://www.invoicemyclients.com/es"
+    "featureUrl": "https://www.invoicemyclients.com/es",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-16T11:00:00Z",
+      "instagram": "ce62a0dc-ae79-4949-b439-236fc52e1082",
+      "tiktok": "58c56239-fd7f-4c6f-9a80-45a1ea17d440",
+      "youtube": "976719f5-c749-4a5f-905c-3d30d1843a00",
+      "pinterest": "8df702ee-8901-4a56-b1a3-2fc747a4bafe",
+      "facebook": "79466741-a1b9-4875-a579-db4134f4f178",
+      "linkedin": "bd7da9ea-3445-48ab-bb93-6e1212f14b8d",
+      "x": "b396e6f9-1325-44e4-b31f-23e885e7bfd6"
+    }
   },
   "2026-11-16-pm": {
     "slot": "2026-11-16-pm",
