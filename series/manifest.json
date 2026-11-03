@@ -407,5 +407,36 @@
       "x": "\"What was the tax again?\" Set your tax rate once, change it on one invoice when you need to, and mark which lines are taxable. The customer sees it line by line and in the total. Starter and above. Start free: https://www.invoicemyclients.com/features/tax?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-10-am #Contractors #SmallBusiness"
     },
     "featureUrl": "https://www.invoicemyclients.com/features/tax"
+  },
+  "2026-11-10-pm": {
+    "slot": "2026-11-10-pm",
+    "postAtLocal": "2026-11-10T19:30",
+    "tz": "America/Chicago",
+    "topic": "Payment reminders that ask you first",
+    "sha": "34565859108cba23f8e148ed42f9f7538871f4fc",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@34565859108cba23f8e148ed42f9f7538871f4fc/series/2026-11-10-pm/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@34565859108cba23f8e148ed42f9f7538871f4fc/series/2026-11-10-pm/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@34565859108cba23f8e148ed42f9f7538871f4fc/series/2026-11-10-pm/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@34565859108cba23f8e148ed42f9f7538871f4fc/series/2026-11-10-pm/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@34565859108cba23f8e148ed42f9f7538871f4fc/series/2026-11-10-pm/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@34565859108cba23f8e148ed42f9f7538871f4fc/series/2026-11-10-pm/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Stop chasing. Approve the reminder instead.\n\nInvoice My Clients sends email reminders on overdue invoices on a fixed schedule: day 1, 7, 14 and 30 past due. They stop when the invoice is paid.\n\nNew accounts start in ask-first mode. Each reminder waits with its exact wording until you approve it or skip it. Nothing reaches your client until you approve.\n\nSet quiet hours, and reminders hold off during those hours in your client's local time.\n\nPayment reminders are on the Professional plan and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #PaymentReminders",
+      "tiktok": "Stop chasing. Approve the reminder instead.\n\nInvoice My Clients sends email reminders on overdue invoices on a fixed schedule: day 1, 7, 14 and 30 past due. They stop when the invoice is paid.\n\nNew accounts start in ask-first mode. Each reminder waits with its exact wording until you approve it or skip it. Nothing reaches your client until you approve.\n\nSet quiet hours, and reminders hold off during those hours in your client's local time.\n\nPayment reminders are on the Professional plan and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #PaymentReminders",
+      "youtube": {
+        "title": "Payment reminders that ask you first | Invoice My Clients",
+        "description": "Stop chasing. Approve the reminder instead.\n\nInvoice My Clients sends email reminders on overdue invoices on a fixed schedule: day 1, 7, 14 and 30 past due. They stop when the invoice is paid.\n\nNew accounts start in ask-first mode. Each reminder waits with its exact wording until you approve it or skip it. Nothing reaches your client until you approve.\n\nSet quiet hours, and reminders hold off during those hours in your client's local time.\n\nPayment reminders are on the Professional plan and above. Start free at https://www.invoicemyclients.com/features/automated-collections?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-10-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #PaymentReminders #Shorts"
+      },
+      "facebook": "Stop chasing. Approve the reminder instead.\n\nInvoice My Clients sends email reminders on overdue invoices on a fixed schedule: day 1, 7, 14 and 30 past due. They stop when the invoice is paid.\n\nNew accounts start in ask-first mode. Each reminder waits with its exact wording until you approve it or skip it. Nothing reaches your client until you approve.\n\nSet quiet hours, and reminders hold off during those hours in your client's local time.\n\nPayment reminders are on the Professional plan and above. Start free at https://www.invoicemyclients.com/features/automated-collections?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-10-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #PaymentReminders",
+      "linkedin": "Chasing overdue invoices by hand is a second job.\n\nInvoice My Clients sends email reminders on a fixed schedule: day 1, 7, 14 and 30 past due, and stops when the invoice is paid.\n\nNew accounts start in ask-first mode. Each reminder waits with its exact wording until you approve or skip it, so nothing reaches a client you have not read first. Quiet hours follow the client's local time.\n\nPayment reminders are on the Professional plan and above. https://www.invoicemyclients.com/features/automated-collections?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-10-pm",
+      "pinterest": {
+        "title": "Payment reminders that ask before they send",
+        "description": "Payment reminders that ask you first. Email reminders on day 1, 7, 14 and 30 past due, each one held with its exact wording until you approve or skip it. They stop when the invoice is paid (Professional plan). Start free at https://www.invoicemyclients.com/features/automated-collections?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-10-pm"
+      },
+      "x": "Payment reminders that ask you first. Email reminders on day 1, 7, 14 and 30 past due, each held until you approve it. They stop when the invoice is paid. Professional plan and above. https://www.invoicemyclients.com/features/automated-collections?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-10-pm"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/automated-collections"
   }
 }
