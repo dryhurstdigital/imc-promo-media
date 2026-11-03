@@ -575,5 +575,36 @@
       "x": "Keep QuickBooks Online as your books. Invoices sync in batches every five minutes, payments recorded in Invoice My Clients are posted to QuickBooks, and Sync Now is one tap. Professional plan and above. https://www.invoicemyclients.com/integrations/quickbooks?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-12-am"
     },
     "featureUrl": "https://www.invoicemyclients.com/integrations/quickbooks"
+  },
+  "2026-11-12-pm": {
+    "slot": "2026-11-12-pm",
+    "postAtLocal": "2026-11-12T19:30",
+    "tz": "America/Chicago",
+    "topic": "Xero sync",
+    "sha": "98be9537994dba10488b499f9a2a9bc4c0060def",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@98be9537994dba10488b499f9a2a9bc4c0060def/series/2026-11-12-pm/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@98be9537994dba10488b499f9a2a9bc4c0060def/series/2026-11-12-pm/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@98be9537994dba10488b499f9a2a9bc4c0060def/series/2026-11-12-pm/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@98be9537994dba10488b499f9a2a9bc4c0060def/series/2026-11-12-pm/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@98be9537994dba10488b499f9a2a9bc4c0060def/series/2026-11-12-pm/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@98be9537994dba10488b499f9a2a9bc4c0060def/series/2026-11-12-pm/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Your clients, your payments, your Xero. In step.\n\nConnect Xero from Settings, Integrations. New clients are created as Xero contacts, and Xero contacts are imported back, on demand or with the auto-import toggles.\n\nPayments recorded in Invoice My Clients are created as Xero payments. Invoices marked for sync are pushed in batches every five minutes, and Sync Now on any invoice sends it straight away.\n\nInvoice My Clients does the sending and chasing. Xero stays your system of record.\n\nXero and QuickBooks Online are on the Professional plan and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #Xero",
+      "tiktok": "Your clients, your payments, your Xero. In step.\n\nConnect Xero from Settings, Integrations. New clients are created as Xero contacts, and Xero contacts are imported back, on demand or with the auto-import toggles.\n\nPayments recorded in Invoice My Clients are created as Xero payments. Invoices marked for sync are pushed in batches every five minutes, and Sync Now on any invoice sends it straight away.\n\nInvoice My Clients does the sending and chasing. Xero stays your system of record.\n\nXero and QuickBooks Online are on the Professional plan and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #Xero",
+      "youtube": {
+        "title": "Contacts and payments, kept in step with Xero | Invoice My Clients",
+        "description": "Your clients, your payments, your Xero. In step.\n\nConnect Xero from Settings, Integrations. New clients are created as Xero contacts, and Xero contacts are imported back, on demand or with the auto-import toggles.\n\nPayments recorded in Invoice My Clients are created as Xero payments. Invoices marked for sync are pushed in batches every five minutes, and Sync Now on any invoice sends it straight away.\n\nInvoice My Clients does the sending and chasing. Xero stays your system of record.\n\nXero and QuickBooks Online are on the Professional plan and above. Start free at https://www.invoicemyclients.com/integrations/xero?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-12-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #Xero #Shorts"
+      },
+      "facebook": "Your clients, your payments, your Xero. In step.\n\nConnect Xero from Settings, Integrations. New clients are created as Xero contacts, and Xero contacts are imported back, on demand or with the auto-import toggles.\n\nPayments recorded in Invoice My Clients are created as Xero payments. Invoices marked for sync are pushed in batches every five minutes, and Sync Now on any invoice sends it straight away.\n\nInvoice My Clients does the sending and chasing. Xero stays your system of record.\n\nXero and QuickBooks Online are on the Professional plan and above. Start free at https://www.invoicemyclients.com/integrations/xero?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-12-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #Xero",
+      "linkedin": "Xero stays the system of record. Invoice My Clients handles the client side: invoices, payment pages and reminders.\n\nConnect Xero from Settings, Integrations. New clients become Xero contacts, Xero contacts are imported back on demand or with auto-import toggles, and payments recorded in Invoice My Clients are created as Xero payments. Invoices marked for sync go across in batches every five minutes, with Sync Now on any invoice.\n\nXero and QuickBooks Online are on the Professional plan and above. https://www.invoicemyclients.com/integrations/xero?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-12-pm",
+      "pinterest": {
+        "title": "Keep your Xero contacts and payments in step",
+        "description": "Keep Xero in step without double entry. New clients become Xero contacts, Xero contacts import back with auto-import toggles, and payments recorded in Invoice My Clients are created as Xero payments (Professional plan). Start free at https://www.invoicemyclients.com/integrations/xero?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-12-pm"
+      },
+      "x": "Xero stays your books. New clients become Xero contacts, contacts import back with auto-import toggles, and payments recorded in Invoice My Clients are created as Xero payments. Professional plan and above. https://www.invoicemyclients.com/integrations/xero?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-12-pm"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/integrations/xero"
   }
 }
