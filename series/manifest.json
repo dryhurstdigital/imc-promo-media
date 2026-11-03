@@ -490,7 +490,18 @@
       },
       "x": "\"I can't pay it all at once.\" Split the invoice into a payment plan: down payment, monthly payments, to the cent. No interest, no fees. The client accepts on the invoice page. Professional and above. Start free: https://www.invoicemyclients.com/features/installment-plans?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-11-am #Contractors #SmallBusiness"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/installment-plans"
+    "featureUrl": "https://www.invoicemyclients.com/features/installment-plans",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-11T11:00:00Z",
+      "instagram": "efaccf34-65fe-4448-a458-97ea8f401a1f",
+      "tiktok": "e3fe9304-3c5d-4aa1-961b-416c9e6ac1cf",
+      "youtube": "f882fc0f-8460-43b2-aef7-06fd5b54c093",
+      "pinterest": "0c18d166-e2a6-47df-a886-136b4494ad87",
+      "facebook": "0f78a1b4-6d88-4db3-b68b-4e8ec6dafbdc",
+      "linkedin": "3e865ffd-b5d9-4b3f-a684-f8c21e10ebdd",
+      "x": "6cc69865-aac3-4c5e-a201-360b3b7023aa"
+    }
   },
   "2026-11-11-pm": {
     "slot": "2026-11-11-pm",
