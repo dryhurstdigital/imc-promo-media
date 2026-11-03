@@ -658,7 +658,18 @@
       },
       "x": "Ask for the report. Get a chart.\n\nDescribe it in plain words and the AI assistant charts it from your invoices. Save it and open it again anytime.\n\nhttps://www.invoicemyclients.com/features/reports?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-13-am\n\n#SmallBusiness #Contractors"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/reports"
+    "featureUrl": "https://www.invoicemyclients.com/features/reports",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-13T11:00:00Z",
+      "instagram": "28e07379-8430-4672-9af6-2f0c947d3a1c",
+      "tiktok": "fe423c43-f8c9-4b40-b61e-bf82386b2be0",
+      "youtube": "27a92640-d9a9-4690-850e-e8ebd6f08e5d",
+      "pinterest": "de367846-db8d-4c5d-ac0d-227d261e5c3e",
+      "facebook": "1b4353a9-e7fb-446c-a766-9b5487e2eed8",
+      "linkedin": "a051703e-aa65-484c-b30b-59a26b9b43df",
+      "x": "2ed1417f-d64c-4426-a57a-a6bd1e5a2893"
+    }
   },
   "2026-11-13-pm": {
     "slot": "2026-11-13-pm",
