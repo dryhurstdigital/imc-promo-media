@@ -532,6 +532,17 @@
       },
       "x": "Bill the same client every month? Schedule the invoice once. Monthly, weekly or your own interval, the next four sends shown before you save, stop after N or never. Starter plan and above. https://www.invoicemyclients.com/features/recurring-invoices?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-11-pm"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/recurring-invoices"
+    "featureUrl": "https://www.invoicemyclients.com/features/recurring-invoices",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-12T01:30:00Z",
+      "instagram": "9779d0a3-52ef-4ec3-b884-1d3ee8563db8",
+      "tiktok": "ea6ef72a-5677-43fe-8c40-a0487c7ecf76",
+      "youtube": "8ca99622-9d16-4b8d-aa84-d75fe0b38f31",
+      "pinterest": "34e4d7f4-348d-4b68-87cb-d364c7bf44eb",
+      "facebook": "a3e3ae90-375f-4391-869a-cbc049342f01",
+      "linkedin": "0bee7034-3449-4323-ab54-3d967fe9dc85",
+      "x": "f27c0263-c39f-481b-b254-97d2f9d7dc67"
+    }
   }
 }
