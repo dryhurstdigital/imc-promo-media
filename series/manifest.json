@@ -70,7 +70,18 @@
       },
       "x": "Set a deposit on the estimate. Your customer signs, scans the QR code and pays it, and the paid deposit is credited when you convert to the invoice. Professional plan and up. https://www.invoicemyclients.com/trades?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-04-am #Contractors #SmallBusiness"
     },
-    "featureUrl": "https://www.invoicemyclients.com/trades"
+    "featureUrl": "https://www.invoicemyclients.com/trades",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-04T11:00:00Z",
+      "instagram": "d60bfabd-20bf-4ebb-ab11-80767fb00cab",
+      "tiktok": "4b3fce74-58e7-4f0f-a548-4d2b6b221e0d",
+      "youtube": "f1308d4a-9cd9-49d1-b78c-1081f8cd2120",
+      "pinterest": "d00959b8-056e-4a91-aab8-aafc37957718",
+      "facebook": "136745a7-ab51-46a5-bb90-43c76b7841ab",
+      "linkedin": "eaf9a2f9-7952-4bf9-bc75-bcf93f48beff",
+      "x": "af0dae7d-4f69-4e84-8205-e1b3da923b40"
+    }
   },
   "2026-11-04-pm": {
     "slot": "2026-11-04-pm",
