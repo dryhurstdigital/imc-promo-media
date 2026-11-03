@@ -292,5 +292,36 @@
       "linkedin": "038643d3-4daa-4733-98ca-16332c789b4e",
       "x": "61c61726-2b32-40d5-8ff3-488193f422dc"
     }
+  },
+  "2026-11-09-am": {
+    "slot": "2026-11-09-am",
+    "postAtLocal": "2026-11-09T05:00",
+    "tz": "America/Chicago",
+    "topic": "Every invoice has its own view-and-pay page",
+    "sha": "67c62c49da450750f2dc32851fa7679e60bd1e14",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@67c62c49da450750f2dc32851fa7679e60bd1e14/series/2026-11-09-am/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@67c62c49da450750f2dc32851fa7679e60bd1e14/series/2026-11-09-am/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@67c62c49da450750f2dc32851fa7679e60bd1e14/series/2026-11-09-am/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@67c62c49da450750f2dc32851fa7679e60bd1e14/series/2026-11-09-am/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@67c62c49da450750f2dc32851fa7679e60bd1e14/series/2026-11-09-am/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@67c62c49da450750f2dc32851fa7679e60bd1e14/series/2026-11-09-am/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "\"The check is in the mail.\" Not anymore. Every invoice you send has its own pay page.\n\nYour customer taps the link in your email or text, sees the invoice on their phone and pays it right there: card, ACH, Apple Pay or Google Pay.\n\nThe money is transferred to your own Stripe account, which pays out to your bank. The invoice marks itself paid, and the receipt shows on the same page.\n\nThe view and pay link is on Starter and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #GetPaid",
+      "tiktok": "\"The check is in the mail.\" Not anymore. Every invoice you send has its own pay page.\n\nYour customer taps the link in your email or text, sees the invoice on their phone and pays it right there: card, ACH, Apple Pay or Google Pay.\n\nThe money is transferred to your own Stripe account, which pays out to your bank. The invoice marks itself paid, and the receipt shows on the same page.\n\nThe view and pay link is on Starter and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #GetPaid",
+      "youtube": {
+        "title": "Every invoice gets its own pay page | Invoice My Clients",
+        "description": "\"The check is in the mail.\" Not anymore. Every invoice you send has its own pay page.\n\nYour customer taps the link in your email or text, sees the invoice on their phone and pays it right there: card, ACH, Apple Pay or Google Pay.\n\nThe money is transferred to your own Stripe account, which pays out to your bank. The invoice marks itself paid, and the receipt shows on the same page.\n\nThe view and pay link is on Starter and above. Start free at https://www.invoicemyclients.com/features/payments?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-09-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #GetPaid #Shorts"
+      },
+      "facebook": "\"The check is in the mail.\" Not anymore. Every invoice you send has its own pay page.\n\nYour customer taps the link in your email or text, sees the invoice on their phone and pays it right there: card, ACH, Apple Pay or Google Pay.\n\nThe money is transferred to your own Stripe account, which pays out to your bank. The invoice marks itself paid, and the receipt shows on the same page.\n\nThe view and pay link is on Starter and above. Start free at https://www.invoicemyclients.com/features/payments?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-09-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #GetPaid",
+      "linkedin": "\"The check is in the mail\" is the oldest line in the trades.\n\nWith Invoice My Clients, every invoice you send has its own pay page. Your customer taps the link, sees the invoice on their phone and pays by card, ACH, Apple Pay or Google Pay.\n\nThe money is transferred to your own Stripe account, which pays out to your bank, and the invoice marks itself paid.\n\nThe view and pay link is on Starter and above. https://www.invoicemyclients.com/features/payments?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-09-am",
+      "pinterest": {
+        "title": "Every invoice gets its own pay page",
+        "description": "Every invoice gets its own pay page. Your customer taps the link in the email or text and pays on their phone by card, ACH, Apple Pay or Google Pay. Payments go to your own Stripe account, and the invoice marks itself paid. View and pay link on Starter and above. Start free at https://www.invoicemyclients.com/features/payments?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-09-am"
+      },
+      "x": "\"The check is in the mail.\" Every invoice now has its own pay page: your customer taps the link and pays by card, ACH, Apple Pay or Google Pay. It marks itself paid. Starter and above. Start free: https://www.invoicemyclients.com/features/payments?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-09-am #Contractors #SmallBusiness"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/payments"
   }
 }
