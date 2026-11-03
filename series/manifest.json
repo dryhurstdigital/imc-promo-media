@@ -323,5 +323,36 @@
       "x": "\"The check is in the mail.\" Every invoice now has its own pay page: your customer taps the link and pays by card, ACH, Apple Pay or Google Pay. It marks itself paid. Starter and above. Start free: https://www.invoicemyclients.com/features/payments?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-09-am #Contractors #SmallBusiness"
     },
     "featureUrl": "https://www.invoicemyclients.com/features/payments"
+  },
+  "2026-11-09-pm": {
+    "slot": "2026-11-09-pm",
+    "postAtLocal": "2026-11-09T19:30",
+    "tz": "America/Chicago",
+    "topic": "Pay QR: show the code, the customer pays on their phone",
+    "sha": "f953ac687966d523bc83eb5f4721008f73129bd5",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@f953ac687966d523bc83eb5f4721008f73129bd5/series/2026-11-09-pm/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@f953ac687966d523bc83eb5f4721008f73129bd5/series/2026-11-09-pm/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@f953ac687966d523bc83eb5f4721008f73129bd5/series/2026-11-09-pm/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@f953ac687966d523bc83eb5f4721008f73129bd5/series/2026-11-09-pm/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@f953ac687966d523bc83eb5f4721008f73129bd5/series/2026-11-09-pm/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@f953ac687966d523bc83eb5f4721008f73129bd5/series/2026-11-09-pm/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "\"I'll pay you next week.\" Not if they can pay right now.\n\nOpen a sent, unpaid invoice on your phone and tap Show pay QR. You get a full-screen code of that invoice's pay page with the exact amount due.\n\nYour customer points their camera at it, the pay page opens on their own phone, and they pay there. Once it is paid in full, you can ask them for a review.\n\nPay QR works on paid plans with Stripe connected: the view and pay link is on Starter and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #QRCode",
+      "tiktok": "\"I'll pay you next week.\" Not if they can pay right now.\n\nOpen a sent, unpaid invoice on your phone and tap Show pay QR. You get a full-screen code of that invoice's pay page with the exact amount due.\n\nYour customer points their camera at it, the pay page opens on their own phone, and they pay there. Once it is paid in full, you can ask them for a review.\n\nPay QR works on paid plans with Stripe connected: the view and pay link is on Starter and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #QRCode",
+      "youtube": {
+        "title": "Job done? Show a pay QR and get paid on site | Invoice My Clients",
+        "description": "\"I'll pay you next week.\" Not if they can pay right now.\n\nOpen a sent, unpaid invoice on your phone and tap Show pay QR. You get a full-screen code of that invoice's pay page with the exact amount due.\n\nYour customer points their camera at it, the pay page opens on their own phone, and they pay there. Once it is paid in full, you can ask them for a review.\n\nPay QR works on paid plans with Stripe connected: the view and pay link is on Starter and above. Start free at https://www.invoicemyclients.com/documentation?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-09-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #QRCode #Shorts"
+      },
+      "facebook": "\"I'll pay you next week.\" Not if they can pay right now.\n\nOpen a sent, unpaid invoice on your phone and tap Show pay QR. You get a full-screen code of that invoice's pay page with the exact amount due.\n\nYour customer points their camera at it, the pay page opens on their own phone, and they pay there. Once it is paid in full, you can ask them for a review.\n\nPay QR works on paid plans with Stripe connected: the view and pay link is on Starter and above. Start free at https://www.invoicemyclients.com/documentation?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-09-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #QRCode",
+      "linkedin": "The best time to get paid is while you are still standing in the customer's kitchen.\n\nIn Invoice My Clients, open a sent, unpaid invoice and tap Show pay QR: a full-screen code of that invoice's pay page with the exact amount due. The customer scans it and pays on their own phone.\n\nOnce the invoice is paid in full, you can ask them for a review from the same screen.\n\nPay QR works on paid plans with Stripe connected: the view and pay link is on Starter and above. https://www.invoicemyclients.com/documentation?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-09-pm",
+      "pinterest": {
+        "title": "Show a pay QR, get paid on the job site",
+        "description": "Job done? Open the invoice on your phone, tap Show pay QR, and your customer scans a full-screen code with the exact amount due and pays on their own phone. Works on paid plans with Stripe connected (Starter and above). Start free at https://www.invoicemyclients.com/documentation?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-09-pm"
+      },
+      "x": "Job done? Tap Show pay QR on the invoice. Your customer scans the code, sees the exact amount due and pays on their own phone. Starter and above with Stripe. Start free: https://www.invoicemyclients.com/documentation?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-09-pm #Contractors #SmallBusiness"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/documentation"
   }
 }
