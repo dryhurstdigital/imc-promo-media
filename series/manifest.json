@@ -784,6 +784,17 @@
       },
       "x": "Invoice My Clients is on Android. Price the job, get it signed in person, and email the receipt before you leave the driveway. Free on Google Play. Start free: https://www.invoicemyclients.com/use-cases/invoice-from-the-job-site?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-16-pm"
     },
-    "featureUrl": "https://www.invoicemyclients.com/use-cases/invoice-from-the-job-site"
+    "featureUrl": "https://www.invoicemyclients.com/use-cases/invoice-from-the-job-site",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-17T01:30:00Z",
+      "instagram": "5109a58b-f171-48bc-9de7-7dde49c9043a",
+      "tiktok": "759fb811-44e6-4786-ba42-3e27cd6adcf4",
+      "youtube": "f7896a84-bb7d-4d3a-ad4a-e1984064f3b0",
+      "pinterest": "b2b30e2f-d823-4ac5-91c7-9ba41b6fabb6",
+      "facebook": "15eb92ab-6cf8-4a92-ab23-5b74926b2fc1",
+      "linkedin": "2330dc24-6cfe-4a94-912c-dd6caf9358f7",
+      "x": "7f081013-07fd-492e-8b9f-8e9f4a78ed9b"
+    }
   }
 }
