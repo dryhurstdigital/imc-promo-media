@@ -155,5 +155,36 @@
       "x": "Tell the assistant the job. It drafts the estimate, lines and total. Nothing goes to your client until you tap Confirm. Estimates on Professional and above. Start free: https://www.invoicemyclients.com/features/ai-assistant?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-06-am"
     },
     "featureUrl": "https://www.invoicemyclients.com/features/ai-assistant"
+  },
+  "2026-11-06-pm": {
+    "slot": "2026-11-06-pm",
+    "postAtLocal": "2026-11-06T19:30",
+    "tz": "America/Chicago",
+    "topic": "Voice mode and dictation",
+    "sha": "156e3f964ff8e0e3e9fb17a9c80b203b15e9a44b",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@156e3f964ff8e0e3e9fb17a9c80b203b15e9a44b/series/2026-11-06-pm/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@156e3f964ff8e0e3e9fb17a9c80b203b15e9a44b/series/2026-11-06-pm/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@156e3f964ff8e0e3e9fb17a9c80b203b15e9a44b/series/2026-11-06-pm/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@156e3f964ff8e0e3e9fb17a9c80b203b15e9a44b/series/2026-11-06-pm/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@156e3f964ff8e0e3e9fb17a9c80b203b15e9a44b/series/2026-11-06-pm/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@156e3f964ff8e0e3e9fb17a9c80b203b15e9a44b/series/2026-11-06-pm/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Hands full on the job? Say the invoice instead.\n\nOpen the assistant in Invoice My Clients, tap Voice Mode and just talk: the client, the work, the amounts. It listens, answers out loud, and drafts the invoice. Before anything is created or sent, it shows a card and waits for you to tap Confirm.\n\nVoice works in Chrome or Edge, in English or Spanish. Prefer to stay in chat? Dictation turns your words into the message box on every plan.\n\nVoice mode is on Professional and above. Dictation is on every plan. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #VoiceInvoicing",
+      "tiktok": "Hands full on the job? Say the invoice instead.\n\nOpen the assistant in Invoice My Clients, tap Voice Mode and just talk: the client, the work, the amounts. It listens, answers out loud, and drafts the invoice. Before anything is created or sent, it shows a card and waits for you to tap Confirm.\n\nVoice works in Chrome or Edge, in English or Spanish. Prefer to stay in chat? Dictation turns your words into the message box on every plan.\n\nVoice mode is on Professional and above. Dictation is on every plan. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #VoiceInvoicing",
+      "youtube": {
+        "title": "Say the invoice. Tap Confirm. | Invoice My Clients",
+        "description": "Hands full on the job? Say the invoice instead.\n\nOpen the assistant in Invoice My Clients, tap Voice Mode and just talk: the client, the work, the amounts. It listens, answers out loud, and drafts the invoice. Before anything is created or sent, it shows a card and waits for you to tap Confirm.\n\nVoice works in Chrome or Edge, in English or Spanish. Prefer to stay in chat? Dictation turns your words into the message box on every plan.\n\nVoice mode is on Professional and above. Dictation is on every plan. Start free: https://www.invoicemyclients.com/features/voice-invoicing?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-06-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #VoiceInvoicing #Shorts"
+      },
+      "facebook": "Hands full on the job? Say the invoice instead.\n\nOpen the assistant in Invoice My Clients, tap Voice Mode and just talk: the client, the work, the amounts. It listens, answers out loud, and drafts the invoice. Before anything is created or sent, it shows a card and waits for you to tap Confirm.\n\nVoice works in Chrome or Edge, in English or Spanish. Prefer to stay in chat? Dictation turns your words into the message box on every plan.\n\nVoice mode is on Professional and above. Dictation is on every plan. Start free: https://www.invoicemyclients.com/features/voice-invoicing?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-06-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #VoiceInvoicing",
+      "linkedin": "Hands full on the job? Say the invoice instead.\n\nOpen the assistant in Invoice My Clients, tap Voice Mode and just talk: the client, the work, the amounts. It listens, answers out loud, and drafts the invoice. Before anything is created or sent, it shows a card and waits for you to tap Confirm.\n\nVoice works in Chrome or Edge, in English or Spanish. Prefer to stay in chat? Dictation turns your words into the message box on every plan.\n\nVoice mode is on Professional and above. Dictation is on every plan. Start free: https://www.invoicemyclients.com/features/voice-invoicing?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-06-pm",
+      "pinterest": {
+        "title": "Voice invoicing for the trades",
+        "description": "Say the invoice instead of typing it. Invoice My Clients voice mode listens, answers out loud and drafts the invoice, then waits for you to tap Confirm. Voice mode on Professional and above, dictation on every plan. Start free: https://www.invoicemyclients.com/features/voice-invoicing?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-06-pm"
+      },
+      "x": "Hands full? Tap Voice Mode and say the invoice. The assistant answers out loud, drafts it, and waits for your Confirm. Voice mode on Professional and up, dictation on every plan. Start free: https://www.invoicemyclients.com/features/voice-invoicing?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-06-pm"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/voice-invoicing"
   }
 }
