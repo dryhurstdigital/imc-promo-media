@@ -156,6 +156,37 @@
     },
     "featureUrl": "https://www.invoicemyclients.com/features/progress-billing"
   },
+  "2026-11-05-pm": {
+    "slot": "2026-11-05-pm",
+    "postAtLocal": "2026-11-05T19:30",
+    "tz": "America/Chicago",
+    "topic": "Time to invoice",
+    "sha": "ffd6cb0ff3465050ecf7e375c8126f19e5f747da",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ffd6cb0ff3465050ecf7e375c8126f19e5f747da/series/2026-11-05-pm/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ffd6cb0ff3465050ecf7e375c8126f19e5f747da/series/2026-11-05-pm/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ffd6cb0ff3465050ecf7e375c8126f19e5f747da/series/2026-11-05-pm/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ffd6cb0ff3465050ecf7e375c8126f19e5f747da/series/2026-11-05-pm/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ffd6cb0ff3465050ecf7e375c8126f19e5f747da/series/2026-11-05-pm/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ffd6cb0ff3465050ecf7e375c8126f19e5f747da/series/2026-11-05-pm/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Hours worked. Hours billed.\n\nLog your time in Invoice My Clients with a start and end time, a client and your hourly rate. The hours fill in for you.\n\nWhen it is time to bill, open Unbilled, tick the entries that go on this invoice and see hours times your rate on every line. Group them by description, by day, by week, or as one line, then create the invoice.\n\nThe entries are marked billed and link to the invoice they went on.\n\nTime tracking is on the Professional plan and up. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #TimeTracking",
+      "tiktok": "Hours worked. Hours billed.\n\nLog your time in Invoice My Clients with a start and end time, a client and your hourly rate. The hours fill in for you.\n\nWhen it is time to bill, open Unbilled, tick the entries that go on this invoice and see hours times your rate on every line. Group them by description, by day, by week, or as one line, then create the invoice.\n\nThe entries are marked billed and link to the invoice they went on.\n\nTime tracking is on the Professional plan and up. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #TimeTracking",
+      "youtube": {
+        "title": "Turn logged hours into an invoice | Invoice My Clients",
+        "description": "Hours worked. Hours billed.\n\nLog your time in Invoice My Clients with a start and end time, a client and your hourly rate. The hours fill in for you.\n\nWhen it is time to bill, open Unbilled, tick the entries that go on this invoice and see hours times your rate on every line. Group them by description, by day, by week, or as one line, then create the invoice.\n\nThe entries are marked billed and link to the invoice they went on.\n\nTime tracking is on the Professional plan and up. Start free at https://www.invoicemyclients.com/features/time-tracking?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-05-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #TimeTracking #Shorts"
+      },
+      "facebook": "Hours worked. Hours billed.\n\nLog your time in Invoice My Clients with a start and end time, a client and your hourly rate. The hours fill in for you.\n\nWhen it is time to bill, open Unbilled, tick the entries that go on this invoice and see hours times your rate on every line. Group them by description, by day, by week, or as one line, then create the invoice.\n\nThe entries are marked billed and link to the invoice they went on.\n\nTime tracking is on the Professional plan and up. Start free at https://www.invoicemyclients.com/features/time-tracking?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-05-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #TimeTracking",
+      "linkedin": "Hours worked should be hours billed.\n\nLog your time in Invoice My Clients with a start and end time, a client and your hourly rate. The hours fill in for you.\n\nWhen it is time to bill, open Unbilled, tick the entries that go on this invoice and see hours times your rate on every line. Group them by description, by day, by week, or as one line, then create the invoice.\n\nThe entries are marked billed and link to the invoice they went on.\n\nTime tracking is on the Professional plan and up. Start free at https://www.invoicemyclients.com/features/time-tracking?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-05-pm",
+      "pinterest": {
+        "title": "Turn logged hours into an invoice",
+        "description": "Turn logged hours into an invoice. Pick the unbilled entries, see hours times your rate, group them by day, by week or as one line, and create the invoice. Entries are marked billed with a link to the invoice. Professional plan and up. Start free at https://www.invoicemyclients.com/features/time-tracking?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-05-pm"
+      },
+      "x": "Hours worked. Hours billed.\n\nLog time, pick the unbilled entries, group them by day, week or one line, and create the invoice. Entries are marked billed. Professional plan and up.\n\nhttps://www.invoicemyclients.com/features/time-tracking?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-05-pm\n\n#Contractors #TimeTracking"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/time-tracking"
+  },
   "2026-11-06-am": {
     "slot": "2026-11-06-am",
     "postAtLocal": "2026-11-06T05:00",
