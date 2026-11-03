@@ -544,5 +544,36 @@
       "linkedin": "0bee7034-3449-4323-ab54-3d967fe9dc85",
       "x": "f27c0263-c39f-481b-b254-97d2f9d7dc67"
     }
+  },
+  "2026-11-12-am": {
+    "slot": "2026-11-12-am",
+    "postAtLocal": "2026-11-12T05:00",
+    "tz": "America/Chicago",
+    "topic": "QuickBooks Online sync",
+    "sha": "c20f30ee6582c9c2f08d1faeb373f040cfebb30e",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@c20f30ee6582c9c2f08d1faeb373f040cfebb30e/series/2026-11-12-am/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@c20f30ee6582c9c2f08d1faeb373f040cfebb30e/series/2026-11-12-am/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@c20f30ee6582c9c2f08d1faeb373f040cfebb30e/series/2026-11-12-am/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@c20f30ee6582c9c2f08d1faeb373f040cfebb30e/series/2026-11-12-am/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@c20f30ee6582c9c2f08d1faeb373f040cfebb30e/series/2026-11-12-am/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@c20f30ee6582c9c2f08d1faeb373f040cfebb30e/series/2026-11-12-am/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Invoice and get paid in one app. Keep QuickBooks as your books.\n\nConnect QuickBooks Online from Settings, Integrations. Import your existing QuickBooks invoices so the history is complete on both sides.\n\nInvoices marked for sync are pushed in batches every five minutes, and each invoice shows its QuickBooks status. Need it now? Tap Sync Now on the invoice.\n\nPayments recorded in Invoice My Clients are posted to QuickBooks. Payment changes made inside QuickBooks are not applied back automatically.\n\nQuickBooks Online and Xero are on the Professional plan and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #QuickBooks",
+      "tiktok": "Invoice and get paid in one app. Keep QuickBooks as your books.\n\nConnect QuickBooks Online from Settings, Integrations. Import your existing QuickBooks invoices so the history is complete on both sides.\n\nInvoices marked for sync are pushed in batches every five minutes, and each invoice shows its QuickBooks status. Need it now? Tap Sync Now on the invoice.\n\nPayments recorded in Invoice My Clients are posted to QuickBooks. Payment changes made inside QuickBooks are not applied back automatically.\n\nQuickBooks Online and Xero are on the Professional plan and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #QuickBooks",
+      "youtube": {
+        "title": "Invoice here, posted to QuickBooks Online | Invoice My Clients",
+        "description": "Invoice and get paid in one app. Keep QuickBooks as your books.\n\nConnect QuickBooks Online from Settings, Integrations. Import your existing QuickBooks invoices so the history is complete on both sides.\n\nInvoices marked for sync are pushed in batches every five minutes, and each invoice shows its QuickBooks status. Need it now? Tap Sync Now on the invoice.\n\nPayments recorded in Invoice My Clients are posted to QuickBooks. Payment changes made inside QuickBooks are not applied back automatically.\n\nQuickBooks Online and Xero are on the Professional plan and above. Start free at https://www.invoicemyclients.com/integrations/quickbooks?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-12-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #QuickBooks #Shorts"
+      },
+      "facebook": "Invoice and get paid in one app. Keep QuickBooks as your books.\n\nConnect QuickBooks Online from Settings, Integrations. Import your existing QuickBooks invoices so the history is complete on both sides.\n\nInvoices marked for sync are pushed in batches every five minutes, and each invoice shows its QuickBooks status. Need it now? Tap Sync Now on the invoice.\n\nPayments recorded in Invoice My Clients are posted to QuickBooks. Payment changes made inside QuickBooks are not applied back automatically.\n\nQuickBooks Online and Xero are on the Professional plan and above. Start free at https://www.invoicemyclients.com/integrations/quickbooks?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-12-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #QuickBooks",
+      "linkedin": "Your QuickBooks Online file stays the ledger. Invoice My Clients does the invoicing and the collecting.\n\nConnect QuickBooks Online from Settings, Integrations and import your existing invoices. Invoices marked for sync are pushed in batches every five minutes, and payments recorded in Invoice My Clients are posted to QuickBooks. Each invoice shows its sync status, with Sync Now for anything urgent.\n\nQuickBooks Online and Xero are on the Professional plan and above. https://www.invoicemyclients.com/integrations/quickbooks?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-12-am",
+      "pinterest": {
+        "title": "Sync your invoices and payments with QuickBooks Online",
+        "description": "Invoice and record payments in Invoice My Clients and keep QuickBooks Online as your books. Import existing invoices, sync in batches every five minutes, and payments recorded here are posted to QuickBooks (Professional plan). Start free at https://www.invoicemyclients.com/integrations/quickbooks?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-12-am"
+      },
+      "x": "Keep QuickBooks Online as your books. Invoices sync in batches every five minutes, payments recorded in Invoice My Clients are posted to QuickBooks, and Sync Now is one tap. Professional plan and above. https://www.invoicemyclients.com/integrations/quickbooks?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-12-am"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/integrations/quickbooks"
   }
 }
