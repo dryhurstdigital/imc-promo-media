@@ -196,7 +196,18 @@
       },
       "x": "Hours worked. Hours billed.\n\nLog time, pick the unbilled entries, group them by day, week or one line, and create the invoice. Entries are marked billed. Professional plan and up.\n\nhttps://www.invoicemyclients.com/features/time-tracking?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-05-pm\n\n#Contractors #TimeTracking"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/time-tracking"
+    "featureUrl": "https://www.invoicemyclients.com/features/time-tracking",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-06T01:30:00Z",
+      "instagram": "5c3ff979-6781-4dd7-975a-7e14cc36b0ba",
+      "tiktok": "886ef799-87fd-482e-8072-ea4f83dbe56a",
+      "youtube": "235330c8-079f-4b87-93c3-900f90af7eaf",
+      "pinterest": "a9819f3c-c636-499c-b7c5-313aa2afc73b",
+      "facebook": "7b264765-5303-4893-b298-6e38814b2ca9",
+      "linkedin": "7dd339c7-edcd-48a1-be9a-906768c48586",
+      "x": "081a49e3-04b3-4445-b2d7-9dc65d369800"
+    }
   },
   "2026-11-06-am": {
     "slot": "2026-11-06-am",
