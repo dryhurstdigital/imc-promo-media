@@ -376,5 +376,36 @@
       "linkedin": "3ff070f8-b614-4faf-8e58-0172371170ef",
       "x": "aeeca844-d521-40c5-89a1-eede5a41a057"
     }
+  },
+  "2026-11-10-am": {
+    "slot": "2026-11-10-am",
+    "postAtLocal": "2026-11-10T05:00",
+    "tz": "America/Chicago",
+    "topic": "Sales tax: the rate, the taxable lines, the tax on the invoice",
+    "sha": "ca3ae75893801db19a0a2d391da582e5594cb94e",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ca3ae75893801db19a0a2d391da582e5594cb94e/series/2026-11-10-am/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ca3ae75893801db19a0a2d391da582e5594cb94e/series/2026-11-10-am/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ca3ae75893801db19a0a2d391da582e5594cb94e/series/2026-11-10-am/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ca3ae75893801db19a0a2d391da582e5594cb94e/series/2026-11-10-am/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ca3ae75893801db19a0a2d391da582e5594cb94e/series/2026-11-10-am/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@ca3ae75893801db19a0a2d391da582e5594cb94e/series/2026-11-10-am/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "\"What was the tax again?\" Stop working it out by hand.\n\nSet your default tax rate once and it goes on every new invoice. Need a different rate for one client? Change it on that invoice only.\n\nMark which lines are taxable. The invoice your customer opens shows the tax on each line, the tax in the totals and the full amount to pay.\n\nSales tax is on Starter and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #SalesTax",
+      "tiktok": "\"What was the tax again?\" Stop working it out by hand.\n\nSet your default tax rate once and it goes on every new invoice. Need a different rate for one client? Change it on that invoice only.\n\nMark which lines are taxable. The invoice your customer opens shows the tax on each line, the tax in the totals and the full amount to pay.\n\nSales tax is on Starter and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #SalesTax",
+      "youtube": {
+        "title": "Sales tax on your invoices, without the math | Invoice My Clients",
+        "description": "\"What was the tax again?\" Stop working it out by hand.\n\nSet your default tax rate once and it goes on every new invoice. Need a different rate for one client? Change it on that invoice only.\n\nMark which lines are taxable. The invoice your customer opens shows the tax on each line, the tax in the totals and the full amount to pay.\n\nSales tax is on Starter and above. Start free at https://www.invoicemyclients.com/features/tax?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-10-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #SalesTax #Shorts"
+      },
+      "facebook": "\"What was the tax again?\" Stop working it out by hand.\n\nSet your default tax rate once and it goes on every new invoice. Need a different rate for one client? Change it on that invoice only.\n\nMark which lines are taxable. The invoice your customer opens shows the tax on each line, the tax in the totals and the full amount to pay.\n\nSales tax is on Starter and above. Start free at https://www.invoicemyclients.com/features/tax?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-10-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #SalesTax",
+      "linkedin": "Tax math is where invoices go wrong.\n\nIn Invoice My Clients you set a default tax rate once and it applies to every new invoice. You can change the rate on a single invoice, and mark which lines are taxable.\n\nThe invoice your customer opens shows the tax line by line and in the totals, so the amount they pay is the right one.\n\nSales tax is on Starter and above. https://www.invoicemyclients.com/features/tax?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-10-am",
+      "pinterest": {
+        "title": "Sales tax on your invoices, without the math",
+        "description": "Sales tax on your invoices without the math: set a default rate once, change it on a single invoice when you need to, and mark which lines are taxable. Your customer sees the tax line by line and in the total. Starter and above. Start free at https://www.invoicemyclients.com/features/tax?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-10-am"
+      },
+      "x": "\"What was the tax again?\" Set your tax rate once, change it on one invoice when you need to, and mark which lines are taxable. The customer sees it line by line and in the total. Starter and above. Start free: https://www.invoicemyclients.com/features/tax?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-10-am #Contractors #SmallBusiness"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/tax"
   }
 }
