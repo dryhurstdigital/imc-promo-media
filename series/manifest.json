@@ -124,5 +124,36 @@
       "linkedin": "94adc397-2e65-4917-8df4-a8a577245979",
       "x": "eec5dc55-52a4-478d-9c33-f5aed96db6d0"
     }
+  },
+  "2026-11-06-am": {
+    "slot": "2026-11-06-am",
+    "postAtLocal": "2026-11-06T05:00",
+    "tz": "America/Chicago",
+    "topic": "AI assistant drafts an estimate",
+    "sha": "92f86f438659372bf96e7c8eb533588a8bd83f90",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@92f86f438659372bf96e7c8eb533588a8bd83f90/series/2026-11-06-am/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@92f86f438659372bf96e7c8eb533588a8bd83f90/series/2026-11-06-am/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@92f86f438659372bf96e7c8eb533588a8bd83f90/series/2026-11-06-am/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@92f86f438659372bf96e7c8eb533588a8bd83f90/series/2026-11-06-am/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@92f86f438659372bf96e7c8eb533588a8bd83f90/series/2026-11-06-am/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@92f86f438659372bf96e7c8eb533588a8bd83f90/series/2026-11-06-am/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Tell the assistant the job. It drafts the estimate.\n\nOpen the assistant in Invoice My Clients (it is in beta) and type the job in plain words: the client, the work, the prices. It puts the estimate together with its lines and total, and links you straight to it, ready to present and sign in person.\n\nAsk it to send the estimate and it shows an approval card first. Nothing goes to your client until you tap Confirm.\n\nThe assistant works by text on every plan. Estimates are on Professional and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #AIAssistant",
+      "tiktok": "Tell the assistant the job. It drafts the estimate.\n\nOpen the assistant in Invoice My Clients (it is in beta) and type the job in plain words: the client, the work, the prices. It puts the estimate together with its lines and total, and links you straight to it, ready to present and sign in person.\n\nAsk it to send the estimate and it shows an approval card first. Nothing goes to your client until you tap Confirm.\n\nThe assistant works by text on every plan. Estimates are on Professional and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #AIAssistant",
+      "youtube": {
+        "title": "Tell it the job. It drafts the estimate. | Invoice My Clients",
+        "description": "Tell the assistant the job. It drafts the estimate.\n\nOpen the assistant in Invoice My Clients (it is in beta) and type the job in plain words: the client, the work, the prices. It puts the estimate together with its lines and total, and links you straight to it, ready to present and sign in person.\n\nAsk it to send the estimate and it shows an approval card first. Nothing goes to your client until you tap Confirm.\n\nThe assistant works by text on every plan. Estimates are on Professional and above. Start free: https://www.invoicemyclients.com/features/ai-assistant?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-06-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #AIAssistant #Shorts"
+      },
+      "facebook": "Tell the assistant the job. It drafts the estimate.\n\nOpen the assistant in Invoice My Clients (it is in beta) and type the job in plain words: the client, the work, the prices. It puts the estimate together with its lines and total, and links you straight to it, ready to present and sign in person.\n\nAsk it to send the estimate and it shows an approval card first. Nothing goes to your client until you tap Confirm.\n\nThe assistant works by text on every plan. Estimates are on Professional and above. Start free: https://www.invoicemyclients.com/features/ai-assistant?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-06-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #AIAssistant",
+      "linkedin": "Tell the assistant the job. It drafts the estimate.\n\nOpen the assistant in Invoice My Clients (it is in beta) and type the job in plain words: the client, the work, the prices. It puts the estimate together with its lines and total, and links you straight to it, ready to present and sign in person.\n\nAsk it to send the estimate and it shows an approval card first. Nothing goes to your client until you tap Confirm.\n\nThe assistant works by text on every plan. Estimates are on Professional and above. Start free: https://www.invoicemyclients.com/features/ai-assistant?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-06-am",
+      "pinterest": {
+        "title": "An AI assistant that drafts your estimates",
+        "description": "Tell the Invoice My Clients assistant (beta) the job in plain words and it drafts the estimate, lines and total. It sends only after you tap Confirm on its approval card. Estimates on Professional and above. Start free: https://www.invoicemyclients.com/features/ai-assistant?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-06-am"
+      },
+      "x": "Tell the assistant the job. It drafts the estimate, lines and total. Nothing goes to your client until you tap Confirm. Estimates on Professional and above. Start free: https://www.invoicemyclients.com/features/ai-assistant?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-06-am"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/ai-assistant"
   }
 }
