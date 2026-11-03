@@ -154,7 +154,18 @@
       },
       "x": "One contract. Billed in stages. Nothing billed twice.\n\nSet the job up once. Each application subtracts what you already billed and holds retainage until you release it. Professional plan and up.\n\nhttps://www.invoicemyclients.com/features/progress-billing?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-05-am\n\n#Contractors #ProgressBilling"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/progress-billing"
+    "featureUrl": "https://www.invoicemyclients.com/features/progress-billing",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-05T11:00:00Z",
+      "instagram": "0dff866c-46a1-4613-8695-efc473de4ced",
+      "tiktok": "04096c76-caf5-403c-b9d1-793695ea61cc",
+      "youtube": "158f0c19-528d-42cb-ae13-2c19887f088a",
+      "pinterest": "90112439-0d97-419c-ac2f-87a3a443f5a8",
+      "facebook": "4d852c9b-03bf-4f7f-8891-ebec0dd42f4a",
+      "linkedin": "fc718e9b-5809-45c0-825a-31d05fc7fa23",
+      "x": "3fd06b71-032c-4a2e-be3e-ed7d0d1f8b56"
+    }
   },
   "2026-11-05-pm": {
     "slot": "2026-11-05-pm",
