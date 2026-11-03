@@ -659,5 +659,36 @@
       "x": "Ask for the report. Get a chart.\n\nDescribe it in plain words and the AI assistant charts it from your invoices. Save it and open it again anytime.\n\nhttps://www.invoicemyclients.com/features/reports?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-13-am\n\n#SmallBusiness #Contractors"
     },
     "featureUrl": "https://www.invoicemyclients.com/features/reports"
+  },
+  "2026-11-13-pm": {
+    "slot": "2026-11-13-pm",
+    "postAtLocal": "2026-11-13T19:30",
+    "tz": "America/Chicago",
+    "topic": "Connect Claude or ChatGPT (MCP)",
+    "sha": "eb50894da8727850fb093149691971c54ebd3c84",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@eb50894da8727850fb093149691971c54ebd3c84/series/2026-11-13-pm/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@eb50894da8727850fb093149691971c54ebd3c84/series/2026-11-13-pm/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@eb50894da8727850fb093149691971c54ebd3c84/series/2026-11-13-pm/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@eb50894da8727850fb093149691971c54ebd3c84/series/2026-11-13-pm/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@eb50894da8727850fb093149691971c54ebd3c84/series/2026-11-13-pm/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@eb50894da8727850fb093149691971c54ebd3c84/series/2026-11-13-pm/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Your AI chat. Your invoices.\n\nConnect Claude or ChatGPT to Invoice My Clients. Add it as a custom connector with one URL, sign in, see exactly what it asks for, and approve. Every plan can connect, Free and Starter included.\n\nThen ask in plain words, like draft an invoice for 3 hours of work at $95 an hour, and it prepares the draft in your account.\n\nAn AI assistant cannot move money: it cannot charge a card, refund, or switch on automatic payments. Those stay in the app.\n\nConnecting an AI assistant by signing in works on every plan. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #AIForBusiness",
+      "tiktok": "Your AI chat. Your invoices.\n\nConnect Claude or ChatGPT to Invoice My Clients. Add it as a custom connector with one URL, sign in, see exactly what it asks for, and approve. Every plan can connect, Free and Starter included.\n\nThen ask in plain words, like draft an invoice for 3 hours of work at $95 an hour, and it prepares the draft in your account.\n\nAn AI assistant cannot move money: it cannot charge a card, refund, or switch on automatic payments. Those stay in the app.\n\nConnecting an AI assistant by signing in works on every plan. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #AIForBusiness",
+      "youtube": {
+        "title": "Connect Claude or ChatGPT to your invoices | Invoice My Clients",
+        "description": "Your AI chat. Your invoices.\n\nConnect Claude or ChatGPT to Invoice My Clients. Add it as a custom connector with one URL, sign in, see exactly what it asks for, and approve. Every plan can connect, Free and Starter included.\n\nThen ask in plain words, like draft an invoice for 3 hours of work at $95 an hour, and it prepares the draft in your account.\n\nAn AI assistant cannot move money: it cannot charge a card, refund, or switch on automatic payments. Those stay in the app.\n\nConnecting an AI assistant by signing in works on every plan. Start free at https://www.invoicemyclients.com/features/mcp-server?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-13-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #AIForBusiness #Shorts"
+      },
+      "facebook": "Your AI chat. Your invoices.\n\nConnect Claude or ChatGPT to Invoice My Clients. Add it as a custom connector with one URL, sign in, see exactly what it asks for, and approve. Every plan can connect, Free and Starter included.\n\nThen ask in plain words, like draft an invoice for 3 hours of work at $95 an hour, and it prepares the draft in your account.\n\nAn AI assistant cannot move money: it cannot charge a card, refund, or switch on automatic payments. Those stay in the app.\n\nConnecting an AI assistant by signing in works on every plan. Start free at https://www.invoicemyclients.com/features/mcp-server?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-13-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #AIForBusiness",
+      "linkedin": "Work on your invoices from the AI assistant you already use.\n\nConnect Claude or ChatGPT to Invoice My Clients. Add it as a custom connector with one URL, sign in, see exactly what it asks for, and approve. Every plan can connect, Free and Starter included.\n\nThen ask in plain words, like draft an invoice for 3 hours of work at $95 an hour, and it prepares the draft in your account.\n\nAn AI assistant cannot move money: it cannot charge a card, refund, or switch on automatic payments. Those stay in the app.\n\nConnecting an AI assistant by signing in works on every plan. Start free at https://www.invoicemyclients.com/features/mcp-server?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-13-pm",
+      "pinterest": {
+        "title": "Connect Claude or ChatGPT to your invoices",
+        "description": "Connect Claude or ChatGPT to Invoice My Clients with one URL, approve what it may do, and ask it to draft invoices in plain words. It cannot charge a card, refund, or switch on automatic payments. Every plan can connect. Start free at https://www.invoicemyclients.com/features/mcp-server?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-13-pm"
+      },
+      "x": "Your AI chat. Your invoices.\n\nConnect Claude or ChatGPT with one URL, approve what it may do, and ask it to draft invoices. It cannot charge a card. Every plan can connect.\n\nhttps://www.invoicemyclients.com/features/mcp-server?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-13-pm\n\n#SmallBusiness #Contractors"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/mcp-server"
   }
 }
