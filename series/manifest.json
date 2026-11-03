@@ -71,5 +71,36 @@
       "x": "Set a deposit on the estimate. Your customer signs, scans the QR code and pays it, and the paid deposit is credited when you convert to the invoice. Professional plan and up. https://www.invoicemyclients.com/trades?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-04-am #Contractors #SmallBusiness"
     },
     "featureUrl": "https://www.invoicemyclients.com/trades"
+  },
+  "2026-11-04-pm": {
+    "slot": "2026-11-04-pm",
+    "postAtLocal": "2026-11-04T19:30",
+    "tz": "America/Chicago",
+    "topic": "Change orders on an accepted estimate, signed on the job",
+    "sha": "29d2471ec0a01e8f1964cfd1f3a48e07c37dcb03",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@29d2471ec0a01e8f1964cfd1f3a48e07c37dcb03/series/2026-11-04-pm/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@29d2471ec0a01e8f1964cfd1f3a48e07c37dcb03/series/2026-11-04-pm/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@29d2471ec0a01e8f1964cfd1f3a48e07c37dcb03/series/2026-11-04-pm/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@29d2471ec0a01e8f1964cfd1f3a48e07c37dcb03/series/2026-11-04-pm/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@29d2471ec0a01e8f1964cfd1f3a48e07c37dcb03/series/2026-11-04-pm/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@29d2471ec0a01e8f1964cfd1f3a48e07c37dcb03/series/2026-11-04-pm/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "\"While you're here, can you add an outlet?\" Get it signed first.\n\nAdd a priced change order to the accepted estimate. Each one gets its own number, shows the price difference and the revised contract total, and can carry job photos.\n\nYour customer signs it on your phone before you do the work. Then bill it: billing adds it to a draft invoice for you to review and send.\n\nChange orders are on the Professional plan and up. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #ChangeOrders",
+      "tiktok": "\"While you're here, can you add an outlet?\" Get it signed first.\n\nAdd a priced change order to the accepted estimate. Each one gets its own number, shows the price difference and the revised contract total, and can carry job photos.\n\nYour customer signs it on your phone before you do the work. Then bill it: billing adds it to a draft invoice for you to review and send.\n\nChange orders are on the Professional plan and up. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #ChangeOrders",
+      "youtube": {
+        "title": "Change orders signed on the job | Invoice My Clients",
+        "description": "\"While you're here, can you add an outlet?\" Get it signed first.\n\nAdd a priced change order to the accepted estimate. Each one gets its own number, shows the price difference and the revised contract total, and can carry job photos.\n\nYour customer signs it on your phone before you do the work. Then bill it: billing adds it to a draft invoice for you to review and send.\n\nChange orders are on the Professional plan and up. Start free at https://www.invoicemyclients.com/trades?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-04-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #ChangeOrders #Shorts"
+      },
+      "facebook": "\"While you're here, can you add an outlet?\" Get it signed first.\n\nAdd a priced change order to the accepted estimate. Each one gets its own number, shows the price difference and the revised contract total, and can carry job photos.\n\nYour customer signs it on your phone before you do the work. Then bill it: billing adds it to a draft invoice for you to review and send.\n\nChange orders are on the Professional plan and up. Start free at https://www.invoicemyclients.com/trades?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-04-pm\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #ChangeOrders",
+      "linkedin": "\"While you're here, can you add an outlet?\" Get it signed first.\n\nAdd a priced change order to the accepted estimate. Each one gets its own number, shows the price difference and the revised contract total, and can carry job photos.\n\nYour customer signs it on your phone before you do the work. Then bill it: billing adds it to a draft invoice for you to review and send.\n\nChange orders are on the Professional plan and up. https://www.invoicemyclients.com/trades?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-04-pm",
+      "pinterest": {
+        "title": "Change orders your customer signs on the job",
+        "description": "Change orders on the accepted estimate: price the extra work, attach job photos, and have your customer sign on your phone before you start. It shows the revised contract total, and billing adds it to a draft invoice you review and send. Change orders are on the Professional plan and up. Start free at https://www.invoicemyclients.com/trades?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-04-pm"
+      },
+      "x": "Extra work on the job? Add a priced change order to the accepted estimate, attach a photo, and have the customer sign it on your phone before you start. Professional plan and up. https://www.invoicemyclients.com/trades?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-04-pm #Contractors"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/trades"
   }
 }
