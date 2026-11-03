@@ -574,7 +574,18 @@
       },
       "x": "Keep QuickBooks Online as your books. Invoices sync in batches every five minutes, payments recorded in Invoice My Clients are posted to QuickBooks, and Sync Now is one tap. Professional plan and above. https://www.invoicemyclients.com/integrations/quickbooks?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-12-am"
     },
-    "featureUrl": "https://www.invoicemyclients.com/integrations/quickbooks"
+    "featureUrl": "https://www.invoicemyclients.com/integrations/quickbooks",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-12T11:00:00Z",
+      "instagram": "06c5c035-fcfe-490f-b414-61c2bed65913",
+      "tiktok": "1802a2dd-fbc2-487a-83fa-6f84880345b3",
+      "youtube": "b161f8fa-ce94-4eb3-ad6a-592d10b463dd",
+      "pinterest": "0813ff00-d658-407c-a919-8209beb329b3",
+      "facebook": "3a560a65-8e60-48e7-b230-7e22137c9908",
+      "linkedin": "12b4a1a7-1f87-42b6-bb8c-fe1d5d8ba217",
+      "x": "b2bf4ba8-1e86-4d2a-b662-92b14fe55908"
+    }
   },
   "2026-11-12-pm": {
     "slot": "2026-11-12-pm",
