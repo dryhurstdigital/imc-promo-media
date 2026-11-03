@@ -712,5 +712,36 @@
       "linkedin": "ab827baf-9f87-4258-810d-f7d696524a33",
       "x": "b3e44106-1e47-487a-a7c9-2630b2a369ac"
     }
+  },
+  "2026-11-16-am": {
+    "slot": "2026-11-16-am",
+    "postAtLocal": "2026-11-16T05:00",
+    "tz": "America/Chicago",
+    "topic": "The app in Spanish",
+    "sha": "36858a5d2e0a7b076470d8c0f213f6491723e39b",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@36858a5d2e0a7b076470d8c0f213f6491723e39b/series/2026-11-16-am/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@36858a5d2e0a7b076470d8c0f213f6491723e39b/series/2026-11-16-am/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@36858a5d2e0a7b076470d8c0f213f6491723e39b/series/2026-11-16-am/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@36858a5d2e0a7b076470d8c0f213f6491723e39b/series/2026-11-16-am/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@36858a5d2e0a7b076470d8c0f213f6491723e39b/series/2026-11-16-am/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@36858a5d2e0a7b076470d8c0f213f6491723e39b/series/2026-11-16-am/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Se habla español. Invoice My Clients works in English and Spanish (Mexico).\n\nPick Español (México) and the app switches over: invoices, clients, time, the + menu and the assistant.\n\nAsk the assistant in Spanish and it answers in Spanish. It drafts the estimate, and before anything goes to your client it shows an approval card and waits for you to tap Confirmar.\n\nSpanish is on every plan. Estimates are on Professional and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #Espanol",
+      "tiktok": "Se habla español. Invoice My Clients works in English and Spanish (Mexico).\n\nPick Español (México) and the app switches over: invoices, clients, time, the + menu and the assistant.\n\nAsk the assistant in Spanish and it answers in Spanish. It drafts the estimate, and before anything goes to your client it shows an approval card and waits for you to tap Confirmar.\n\nSpanish is on every plan. Estimates are on Professional and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #Espanol",
+      "youtube": {
+        "title": "Se habla español: the app and assistant in Spanish | Invoice My Clients",
+        "description": "Se habla español. Invoice My Clients works in English and Spanish (Mexico).\n\nPick Español (México) and the app switches over: invoices, clients, time, the + menu and the assistant.\n\nAsk the assistant in Spanish and it answers in Spanish. It drafts the estimate, and before anything goes to your client it shows an approval card and waits for you to tap Confirmar.\n\nSpanish is on every plan. Estimates are on Professional and above. Start free: https://www.invoicemyclients.com/es?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-16-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #Espanol #Shorts"
+      },
+      "facebook": "Se habla español. Invoice My Clients works in English and Spanish (Mexico).\n\nPick Español (México) and the app switches over: invoices, clients, time, the + menu and the assistant.\n\nAsk the assistant in Spanish and it answers in Spanish. It drafts the estimate, and before anything goes to your client it shows an approval card and waits for you to tap Confirmar.\n\nSpanish is on every plan. Estimates are on Professional and above. Start free: https://www.invoicemyclients.com/es?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-16-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #Espanol",
+      "linkedin": "Se habla español. Invoice My Clients works in English and Spanish (Mexico).\n\nPick Español (México) and the app switches over: invoices, clients, time, the + menu and the assistant.\n\nAsk the assistant in Spanish and it answers in Spanish. It drafts the estimate, and before anything goes to your client it shows an approval card and waits for you to tap Confirmar.\n\nSpanish is on every plan. Estimates are on Professional and above. Start free: https://www.invoicemyclients.com/es?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-16-am",
+      "pinterest": {
+        "title": "Invoicing app in English and Spanish",
+        "description": "Se habla español. Invoice My Clients and its assistant work in English and Spanish (Mexico): ask in Spanish, get answers in Spanish, and confirm before anything is sent. On every plan. Start free: https://www.invoicemyclients.com/es?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-16-am"
+      },
+      "x": "Se habla español. Switch Invoice My Clients to Español (México): invoices, clients and the assistant, which answers in Spanish and waits for your Confirmar. Every plan. Start free: https://www.invoicemyclients.com/es?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-16-am"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/es"
   }
 }
