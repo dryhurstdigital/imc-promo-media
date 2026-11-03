@@ -700,6 +700,17 @@
       },
       "x": "Your AI chat. Your invoices.\n\nConnect Claude or ChatGPT with one URL, approve what it may do, and ask it to draft invoices. It cannot charge a card. Every plan can connect.\n\nhttps://www.invoicemyclients.com/features/mcp-server?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-13-pm\n\n#SmallBusiness #Contractors"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/mcp-server"
+    "featureUrl": "https://www.invoicemyclients.com/features/mcp-server",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-14T01:30:00Z",
+      "instagram": "537223dc-cc33-46e4-968c-37c982475b2e",
+      "tiktok": "5570638c-4842-4dd9-815a-abef723b00f1",
+      "youtube": "b84750fb-2c37-46b3-b040-a9bad4dfbb95",
+      "pinterest": "d2d10468-361d-412e-a1c4-b70f647119db",
+      "facebook": "bf6c86cd-f8df-4644-bd6d-77bc499b5191",
+      "linkedin": "ab827baf-9f87-4258-810d-f7d696524a33",
+      "x": "b3e44106-1e47-487a-a7c9-2630b2a369ac"
+    }
   }
 }
