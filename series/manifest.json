@@ -406,7 +406,18 @@
       },
       "x": "\"What was the tax again?\" Set your tax rate once, change it on one invoice when you need to, and mark which lines are taxable. The customer sees it line by line and in the total. Starter and above. Start free: https://www.invoicemyclients.com/features/tax?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-10-am #Contractors #SmallBusiness"
     },
-    "featureUrl": "https://www.invoicemyclients.com/features/tax"
+    "featureUrl": "https://www.invoicemyclients.com/features/tax",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-10T11:00:00Z",
+      "instagram": "e4f6e19c-fe2a-4a27-8a30-7b5da8a393e9",
+      "tiktok": "ed8286bf-46c0-4342-880f-3deaf54b79f7",
+      "youtube": "1fc6f81e-5af8-4176-98eb-8f4f663d66ef",
+      "pinterest": "1de735f6-4c25-451d-b09d-08cad57db498",
+      "facebook": "77fbb579-94f4-4a54-839d-595d99773222",
+      "linkedin": "efc9a5c0-7f86-43a0-8e13-78bc23bbf349",
+      "x": "2d903985-aa97-4f9b-a9d1-07becd4fefd5"
+    }
   },
   "2026-11-10-pm": {
     "slot": "2026-11-10-pm",
