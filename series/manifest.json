@@ -460,5 +460,36 @@
       "linkedin": "a5094169-84c9-4e37-8610-6ca527e16233",
       "x": "121dd7a3-8415-4a30-a108-bfff1d15ed87"
     }
+  },
+  "2026-11-11-am": {
+    "slot": "2026-11-11-am",
+    "postAtLocal": "2026-11-11T05:00",
+    "tz": "America/Chicago",
+    "topic": "Payment plans: split one invoice, the client accepts on the invoice page",
+    "sha": "929fe42bfe8c37414a01be92230a82571c95619b",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@929fe42bfe8c37414a01be92230a82571c95619b/series/2026-11-11-am/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@929fe42bfe8c37414a01be92230a82571c95619b/series/2026-11-11-am/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@929fe42bfe8c37414a01be92230a82571c95619b/series/2026-11-11-am/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@929fe42bfe8c37414a01be92230a82571c95619b/series/2026-11-11-am/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@929fe42bfe8c37414a01be92230a82571c95619b/series/2026-11-11-am/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@929fe42bfe8c37414a01be92230a82571c95619b/series/2026-11-11-am/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "\"I can't pay it all at once.\" Don't lose the job over it.\n\nOpen the invoice and set up a payment plan: weekly, every two weeks or monthly, with an optional down payment. The payments add up to the balance to the cent.\n\nNo interest and no fees are added by the plan, and the invoice total never changes. Your client sees the schedule on their invoice page, types their name, ticks a box and accepts. They never need an account.\n\nPayment plans are on Professional and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #PaymentPlans",
+      "tiktok": "\"I can't pay it all at once.\" Don't lose the job over it.\n\nOpen the invoice and set up a payment plan: weekly, every two weeks or monthly, with an optional down payment. The payments add up to the balance to the cent.\n\nNo interest and no fees are added by the plan, and the invoice total never changes. Your client sees the schedule on their invoice page, types their name, ticks a box and accepts. They never need an account.\n\nPayment plans are on Professional and above. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #PaymentPlans",
+      "youtube": {
+        "title": "Split a big invoice into a payment plan | Invoice My Clients",
+        "description": "\"I can't pay it all at once.\" Don't lose the job over it.\n\nOpen the invoice and set up a payment plan: weekly, every two weeks or monthly, with an optional down payment. The payments add up to the balance to the cent.\n\nNo interest and no fees are added by the plan, and the invoice total never changes. Your client sees the schedule on their invoice page, types their name, ticks a box and accepts. They never need an account.\n\nPayment plans are on Professional and above. Start free at https://www.invoicemyclients.com/features/installment-plans?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-11-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #PaymentPlans #Shorts"
+      },
+      "facebook": "\"I can't pay it all at once.\" Don't lose the job over it.\n\nOpen the invoice and set up a payment plan: weekly, every two weeks or monthly, with an optional down payment. The payments add up to the balance to the cent.\n\nNo interest and no fees are added by the plan, and the invoice total never changes. Your client sees the schedule on their invoice page, types their name, ticks a box and accepts. They never need an account.\n\nPayment plans are on Professional and above. Start free at https://www.invoicemyclients.com/features/installment-plans?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-11-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #PaymentPlans",
+      "linkedin": "Big jobs stall when the customer can't pay it all at once.\n\nIn Invoice My Clients you can split one invoice's open balance into a payment plan: weekly, every two weeks or monthly, with an optional down payment. The payments add up to the cent, and the plan adds no interest and no fees.\n\nYour client accepts the plan on their invoice page with their typed name and a checkbox, and never needs an account.\n\nPayment plans are on Professional and above. https://www.invoicemyclients.com/features/installment-plans?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-11-am",
+      "pinterest": {
+        "title": "Split a big invoice into a payment plan",
+        "description": "Split a big invoice into a payment plan: a down payment and monthly payments that add up to the cent, with no interest or fees added. Your client accepts on their invoice page with no account. Payment plans on Professional and above. Start free at https://www.invoicemyclients.com/features/installment-plans?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-11-am"
+      },
+      "x": "\"I can't pay it all at once.\" Split the invoice into a payment plan: down payment, monthly payments, to the cent. No interest, no fees. The client accepts on the invoice page. Professional and above. Start free: https://www.invoicemyclients.com/features/installment-plans?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-11-am #Contractors #SmallBusiness"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/installment-plans"
   }
 }
