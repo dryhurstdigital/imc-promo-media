@@ -616,6 +616,17 @@
       },
       "x": "Xero stays your books. New clients become Xero contacts, contacts import back with auto-import toggles, and payments recorded in Invoice My Clients are created as Xero payments. Professional plan and above. https://www.invoicemyclients.com/integrations/xero?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-12-pm"
     },
-    "featureUrl": "https://www.invoicemyclients.com/integrations/xero"
+    "featureUrl": "https://www.invoicemyclients.com/integrations/xero",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-13T01:30:00Z",
+      "instagram": "597fbd91-bcc6-44c3-9622-e6af77255d34",
+      "tiktok": "c0c32b3e-f688-43a9-8f26-04ece98f4b70",
+      "youtube": "93a02e28-80ee-462d-aed5-cfe69fb35e7b",
+      "pinterest": "4fe794a8-1a47-4475-8756-09cf8fcdc0c4",
+      "facebook": "c6fe6132-0269-4b00-aaaf-08edebfed458",
+      "linkedin": "8797152c-99c8-4cc6-b2c5-3cc6571588eb",
+      "x": "b9843412-4c4a-41d4-ae8c-f4bad62d9214"
+    }
   }
 }
