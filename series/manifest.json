@@ -628,5 +628,36 @@
       "linkedin": "8797152c-99c8-4cc6-b2c5-3cc6571588eb",
       "x": "b9843412-4c4a-41d4-ae8c-f4bad62d9214"
     }
+  },
+  "2026-11-13-am": {
+    "slot": "2026-11-13-am",
+    "postAtLocal": "2026-11-13T05:00",
+    "tz": "America/Chicago",
+    "topic": "Reports",
+    "sha": "114c8aa4f6fb761ee0e9cece55b7b1357bd1958d",
+    "files": {
+      "9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@114c8aa4f6fb761ee0e9cece55b7b1357bd1958d/series/2026-11-13-am/promo-9x16.mp4",
+      "4x5": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@114c8aa4f6fb761ee0e9cece55b7b1357bd1958d/series/2026-11-13-am/promo-4x5.mp4",
+      "1x1": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@114c8aa4f6fb761ee0e9cece55b7b1357bd1958d/series/2026-11-13-am/promo-1x1.mp4",
+      "youtube4k": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@114c8aa4f6fb761ee0e9cece55b7b1357bd1958d/series/2026-11-13-am/promo-youtube-4k.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@114c8aa4f6fb761ee0e9cece55b7b1357bd1958d/series/2026-11-13-am/poster.png",
+      "poster9x16": "https://cdn.jsdelivr.net/gh/dryhurstdigital/imc-promo-media@114c8aa4f6fb761ee0e9cece55b7b1357bd1958d/series/2026-11-13-am/poster-9x16.png"
+    },
+    "captions": {
+      "instagram": "Ask for the report. Get a chart.\n\nIn Invoice My Clients you just describe the report you need, like paid invoices by month, and the AI assistant creates the chart from your own invoice data. Bar, line, pie, area, scatter or a table.\n\nSave it and it stays on your Reports page, ready to open again.\n\nTrack time? The Reports tab in Time Tracking adds up hours tracked, billable hours, utilization, revenue and average rate, with hours and revenue for each client.\n\nThe AI assistant is on every plan, with a monthly message allowance. Time tracking reports are on Professional and up. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #BusinessReports",
+      "tiktok": "Ask for the report. Get a chart.\n\nIn Invoice My Clients you just describe the report you need, like paid invoices by month, and the AI assistant creates the chart from your own invoice data. Bar, line, pie, area, scatter or a table.\n\nSave it and it stays on your Reports page, ready to open again.\n\nTrack time? The Reports tab in Time Tracking adds up hours tracked, billable hours, utilization, revenue and average rate, with hours and revenue for each client.\n\nThe AI assistant is on every plan, with a monthly message allowance. Time tracking reports are on Professional and up. Start free at the link in bio\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #BusinessReports",
+      "youtube": {
+        "title": "Ask for a report, get a chart | Invoice My Clients",
+        "description": "Ask for the report. Get a chart.\n\nIn Invoice My Clients you just describe the report you need, like paid invoices by month, and the AI assistant creates the chart from your own invoice data. Bar, line, pie, area, scatter or a table.\n\nSave it and it stays on your Reports page, ready to open again.\n\nTrack time? The Reports tab in Time Tracking adds up hours tracked, billable hours, utilization, revenue and average rate, with hours and revenue for each client.\n\nThe AI assistant is on every plan, with a monthly message allowance. Time tracking reports are on Professional and up. Start free at https://www.invoicemyclients.com/features/reports?utm_source=youtube&utm_medium=social&utm_campaign=series-2026-11-13-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #BusinessReports #Shorts"
+      },
+      "facebook": "Ask for the report. Get a chart.\n\nIn Invoice My Clients you just describe the report you need, like paid invoices by month, and the AI assistant creates the chart from your own invoice data. Bar, line, pie, area, scatter or a table.\n\nSave it and it stays on your Reports page, ready to open again.\n\nTrack time? The Reports tab in Time Tracking adds up hours tracked, billable hours, utilization, revenue and average rate, with hours and revenue for each client.\n\nThe AI assistant is on every plan, with a monthly message allowance. Time tracking reports are on Professional and up. Start free at https://www.invoicemyclients.com/features/reports?utm_source=facebook&utm_medium=social&utm_campaign=series-2026-11-13-am\n\n#Electrician #HVAC #Plumbing #Contractors #SmallBusiness #BusinessReports",
+      "linkedin": "Reports without a report builder.\n\nIn Invoice My Clients you just describe the report you need, like paid invoices by month, and the AI assistant creates the chart from your own invoice data. Bar, line, pie, area, scatter or a table.\n\nSave it and it stays on your Reports page, ready to open again.\n\nTrack time? The Reports tab in Time Tracking adds up hours tracked, billable hours, utilization, revenue and average rate, with hours and revenue for each client.\n\nThe AI assistant is on every plan, with a monthly message allowance. Time tracking reports are on Professional and up. Start free at https://www.invoicemyclients.com/features/reports?utm_source=linkedin&utm_medium=social&utm_campaign=series-2026-11-13-am",
+      "pinterest": {
+        "title": "Ask for a business report in plain words",
+        "description": "Describe the report you need and the Invoice My Clients AI assistant charts it from your invoice data. Save it to your Reports page and open it again anytime. Time tracking reports show hours, billable hours, revenue and rate by client. Start free at https://www.invoicemyclients.com/features/reports?utm_source=pinterest&utm_medium=social&utm_campaign=series-2026-11-13-am"
+      },
+      "x": "Ask for the report. Get a chart.\n\nDescribe it in plain words and the AI assistant charts it from your invoices. Save it and open it again anytime.\n\nhttps://www.invoicemyclients.com/features/reports?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-13-am\n\n#SmallBusiness #Contractors"
+    },
+    "featureUrl": "https://www.invoicemyclients.com/features/reports"
   }
 }
