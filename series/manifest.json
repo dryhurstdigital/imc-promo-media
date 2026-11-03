@@ -364,6 +364,17 @@
       },
       "x": "Job done? Tap Show pay QR on the invoice. Your customer scans the code, sees the exact amount due and pays on their own phone. Starter and above with Stripe. Start free: https://www.invoicemyclients.com/documentation?utm_source=x&utm_medium=social&utm_campaign=series-2026-11-09-pm #Contractors #SmallBusiness"
     },
-    "featureUrl": "https://www.invoicemyclients.com/documentation"
+    "featureUrl": "https://www.invoicemyclients.com/documentation",
+    "schedule": {
+      "via": "Helena (Enrich Labs) session 87c780ce-0e12-45cc-97e3-fc53b891d528, calendar item ids",
+      "scheduledFor": "2026-11-10T01:30:00Z",
+      "instagram": "2d738bc2-2731-42fb-8939-44f205b3e43e",
+      "tiktok": "98dd4096-8400-4390-81ac-7471824faaaa",
+      "youtube": "adcc0d07-17f4-4e9e-89b6-05acf1eab66f",
+      "pinterest": "7a8e8a5e-ebbb-471b-8c56-9a8cfb744dac",
+      "facebook": "40c0a5e1-14b4-4185-adb7-d63713d092b5",
+      "linkedin": "3ff070f8-b614-4faf-8e58-0172371170ef",
+      "x": "aeeca844-d521-40c5-89a1-eede5a41a057"
+    }
   }
 }
