@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:01,567
+You finished the work.
+
+2
+00:00:01,600 --> 00:00:03,167
+But did you invoice it?
+
+3
+00:00:03,333 --> 00:00:05,333
+Yeah. That part.
+
+4
+00:00:05,367 --> 00:00:07,467
+Your brain has clocked out.
+
+5
+00:00:07,500 --> 00:00:09,067
+Your invoice hasn't.
+
+6
+00:00:09,167 --> 00:00:10,133
+Wait.
+
+7
+00:00:10,167 --> 00:00:11,233
+Say it instead.
+
+8
+00:00:11,333 --> 00:00:13,367
+Open Invoice My Clients.
+
+9
+00:00:13,467 --> 00:00:15,500
+Tell it what you did.
+
+10
+00:00:15,600 --> 00:00:17,633
+It drafts the invoice.
+
+11
+00:00:17,667 --> 00:00:20,133
+Review it. Confirm. Send.
+
+12
+00:00:20,167 --> 00:00:21,467
+Then get back to your day.
+
+13
+00:00:21,500 --> 00:00:22,900
+Because you finished the work.
