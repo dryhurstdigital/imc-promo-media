@@ -1,0 +1,43 @@
+1
+00:00:00,500 --> 00:00:02,233
+Next month: Hey.
+
+2
+00:00:02,233 --> 00:00:04,467
+Next month: Did they even open that invoice?
+
+3
+00:00:04,600 --> 00:00:06,300
+This month: I sent it.
+
+4
+00:00:06,300 --> 00:00:08,233
+This month: I'm not sure they saw it.
+
+5
+00:00:08,600 --> 00:00:09,800
+Next month: Can you check?
+
+6
+00:00:11,000 --> 00:00:13,267
+This month: Let's look at the invoice notification.
+
+7
+00:00:15,400 --> 00:00:17,733
+This month: There it is.
+
+8
+00:00:17,733 --> 00:00:19,367
+This month: The invoice was viewed.
+
+9
+00:00:19,800 --> 00:00:21,867
+Next month: Good.
+
+10
+00:00:21,867 --> 00:00:23,567
+Next month: Now I know it was opened.
+
+11
+00:00:25,400 --> 00:00:27,233
+This month: One less thing to wonder about.
